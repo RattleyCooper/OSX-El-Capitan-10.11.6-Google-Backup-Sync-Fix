@@ -16,6 +16,8 @@ If you need Google Drive 3.49, u can get it here.
 
 https://www.dropbox.com/s/f1m5shqujac9ha7/InstallBackupAndSync%203.49.dmg?dl=0
 
+Or you can download the `xaa xab xac` files and append them to each other.  The easiet way to do this is to put them into a folder, navigate to that folder in the terminal and run the following command `cat x?? > InstallBackupAndSync.dmg`
+
 Go to the Terminal window and type:
 
 `cd ~/Library/Application\ Support/Google`
